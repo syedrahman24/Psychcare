@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useCallback } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
+import logo from '../assets/logo.png';
 import '../styles/Navbar.css'
 
 const Navbar = React.memo(() => {
@@ -77,11 +78,7 @@ const Navbar = React.memo(() => {
           transition={{ duration: 0.3 }}
         >
           <div className="logo-icon">
-            <img 
-              src="/logo.png" 
-              alt="PsychCare Therapy Center Logo" 
-              className="logo-image"
-            />
+          <img src={logo} alt="Logo" />
           </div>
           <div className="logo-text">
             <span className="logo-main">The Psychcare</span>
