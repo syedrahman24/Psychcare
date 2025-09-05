@@ -1,5 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
+import logo from '../assets/logo.png';
 import '../styles/Footer.css'
 
 const Footer = () => {
@@ -51,11 +52,7 @@ const Footer = () => {
           >
             <div className="footer-logo">
               <div className="footer-logo-icon">
-                <img 
-                  src="/logo.png" 
-                  alt="PsychCare Therapy Center Logo" 
-                  className="footer-logo-image"
-                />
+                <img src={logo} alt="Logo" />
               </div>
               <div className="footer-logo-text">
                 <span className="footer-logo-main">The Psychcare</span>

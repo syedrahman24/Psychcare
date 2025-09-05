@@ -39,7 +39,7 @@
   border-radius: 50%;
   background: linear-gradient(135deg, #005f83, #0077a3);
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   justify-content: center;
   box-shadow: 0 5px 15px rgba(0, 95, 131, 0.3);
   position: relative;
