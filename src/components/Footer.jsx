@@ -52,7 +52,7 @@ const Footer = () => {
             <div className="footer-logo">
               <div className="footer-logo-icon">
                 <img 
-                  src="/assets/logo.png" 
+                  src="/logo.png" 
                   alt="PsychCare Therapy Center Logo" 
                   className="footer-logo-image"
                 />

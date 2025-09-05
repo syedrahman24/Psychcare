@@ -78,7 +78,7 @@ const Navbar = React.memo(() => {
         >
           <div className="logo-icon">
             <img 
-              src="/assets/logo.png" 
+              src="/logo.png" 
               alt="PsychCare Therapy Center Logo" 
               className="logo-image"
             />
