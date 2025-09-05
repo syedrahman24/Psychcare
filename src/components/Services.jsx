@@ -133,7 +133,7 @@ const Services = () => {
                 </ul>
               </div>
               
-              <div className="service-overlay">
+              {/* <div className="service-overlay">
                 <div className="overlay-content">
                   <div className="service-icon">
                     <span>{service.icon}</span>
@@ -160,7 +160,7 @@ const Services = () => {
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </motion.div>
           ))}
         </motion.div>

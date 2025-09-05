@@ -35,9 +35,9 @@ body {
 }
 
 .btn {
-  padding: 12px 30px;
+  padding: 18px 30px;
   border: none;
-  border-radius: 50px;
+  border-radius: 10px;
   font-weight: 600;
   text-decoration: none;
   display: inline-block;

@@ -65,7 +65,7 @@
   margin-bottom: 25px;
   line-height: 1.2;
   color: white;
-  text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  /* text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); */
 }
 
 .highlight-text {
