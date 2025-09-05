@@ -571,8 +571,8 @@
   
   .btn{
     width: 100%;
-    font-size: 0.9rem !important;
-    padding: 20px 30px !important;
+    font-size: 1.1rem !important;
+    padding: 23px 30px !important;
   }
   .cta-buttons {
     flex-direction: column;
